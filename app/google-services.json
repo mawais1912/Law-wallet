@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "605103135396",
+    "firebase_url": "https://law-wallet-f6bcc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "law-wallet-f6bcc",
+    "storage_bucket": "law-wallet-f6bcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605103135396:android:6abf20910f6ea6904e2431",
+        "android_client_info": {
+          "package_name": "com.livewall.lawwalletfinalyearproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-PcLK882OdhRQ0b3E2YlhVLKB-P8Wk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
